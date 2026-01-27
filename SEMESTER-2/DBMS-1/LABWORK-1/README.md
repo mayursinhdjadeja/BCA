@@ -74,4 +74,3 @@ The following SQL queries are performed:
 ## ✅ Status
 - ✔ Labwork-1 Completed
 - ✔ Suitable for academic evaluation and GitHub showcase
--

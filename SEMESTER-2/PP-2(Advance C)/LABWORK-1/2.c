@@ -1,4 +1,4 @@
-//Enter N elements and find total and average
+//2:- Enter N elements and find total and average
 
 #include<stdio.h>
 int main()
